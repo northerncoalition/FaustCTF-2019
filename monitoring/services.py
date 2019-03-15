@@ -4,7 +4,7 @@ import atexit
 from swpag_client import *
 from prettytable import PrettyTable
 
-TEAM_TOKEN = "x8VMaRT7hfeBeTbLz1VZ"
+TEAM_TOKEN = ""
 
 GREEN = '\033[92m'
 RED = '\033[91m'
